@@ -1,0 +1,14 @@
+{
+  "name": "readysolutionserver",
+  "version": "1.0.0",
+  "description": "Server ReadySolutions Para Facturama",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hector Puga",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
